@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="Saharutais-Air.home" id="0" name="TestEmployeeDetails" package="TestNG" tests="2" time="0.023" timestamp="13 Mar 2015 07:34:17 GMT">
+      <testcase classname="TestNG.TestEmployeeDetails" name="testCalculateAppriasal" time="0.022" />
+
+      <testcase classname="TestNG.TestEmployeeDetails" name="testCalculateYearlySalary" time="0.001" />
+
+  </testsuite>
+</testsuites>
